@@ -33,7 +33,7 @@ Each well-formed `movie` object in the `movies` array must have the following ke
 
 The web application should also allow the user to view a movie's full plot by clicking on the "Plot Synopsis".
 
-![](screenshots/plot.gif)
+  ![](screenshots/plot.gif)
 
 While the application is handling the first HTTP response, you'll need to extend your JavaScript with the following behavior.
 
